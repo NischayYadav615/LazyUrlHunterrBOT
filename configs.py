@@ -15,32 +15,32 @@ class Config(object):
     BOT_OWNER = int(os.environ.get("BOT_OWNER"))
     DATABASE_URL = os.environ.get("DATABASE_URL")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
-    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
+    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/Legendbotupdates'>Legend Url Hunterr</a> is an open source project.
 
     Devs: 
-        <a href='https://t.me/mRiderDM'>❤️ LazyDeveloper ❤️</a>
+        <a href='https://t.me/mRiderDM'>❤️ Legend Developer ❤️</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/movierequestgroupetc'>Mdisk Search Robot</a>
 
 📝 Language: <a href='https://www.python.org'>Python V3</a>
 
 📚 Library: <a href='https://docs.pyrogram.org'>Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡 Server: <a href='https://heroku.com'>NischayServer</a>
 
 📡 Server 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
 
-👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
+👨‍💻 Developer Channel: <a href='https://t.me/Legendbotupdates'>Legend Developer</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>
+    ABOUT_HELP_TEXT = """<b> Developer : <a href='https://t.me/Legendbotupdates'>LegendDevveloper</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b>Hello Baby ! {}😅,
+<b>Hello Professor ! {}😅,
 
 I'm the one and only fastest URL finder BOT. Add me to any Group and Give me Hunting rights !!
 
@@ -49,20 +49,20 @@ Go to @BotFather to change settings.
 
 Don't be sad ! Your all urls are in safe Hand.
 
-»»» <b>Happy Hunting</b> «««
 
-🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+
+🔺Thank You <a href='https://t.me/Legendbotupdates'>LazyDeveloper</a>🔺 </b>
 """
 
 
     START_MSG = """
-<b>Hello Baby ! {}😅,
+<b>Hello Professor ! {}😅,
 
 I'm the one and only fastest URL & post finder BOT. Add me to any Group and Give me Hunting rights !!
 
 Don't be sad ! Your all urls are in safe Hand.</b>
 
-   »»»» <b>Happy Hunting</b> ««««
+   »»»» <b>Legend Developer</b> ««««
 
 💸<b>Donate us to Keep service Alive.💸</b>
 »» A small amount of ₹5 - ₹20 - ₹50 - ₹100 will be great help !
